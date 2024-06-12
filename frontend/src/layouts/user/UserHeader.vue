@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container px-4 px-lg-5">
-      <a class="navbar-brand" href="#!"> ㅇㅇㅇㅇㅇ주우니 쇼핑몰 </a>
+      <a class="navbar-brand" href="#!"> 두웅 가게 </a>
       <button
         class="navbar-toggler"
         type="button"
